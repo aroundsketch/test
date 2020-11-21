@@ -14,15 +14,15 @@ test sketch library
 
 [You can use numbers for reference-style link definitions][1]
 
-Or leave it empty and use the [link text itself].
+Or leave it empty and use the [sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
+http://www.example.com or <sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml> and sometimes 
 example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[link text itself]: sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml
 
