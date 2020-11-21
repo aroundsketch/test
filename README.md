@@ -1,28 +1,4 @@
 # test
-test sketch library
+use this plugin to update remote library <https://github.com/bomberstudios/check-for-library-updates/archive/master.zip>
 
-
-[I'm an inline-style link](sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml)
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: sketch://add-library?url=https%3A%2F%2Fraw.githubusercontent.com%2Faroundsketch%2Ftest%2Fmain%2Ftest.xml
-
+or check repo <https://github.com/bomberstudios/check-for-library-updates>
