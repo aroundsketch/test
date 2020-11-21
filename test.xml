@@ -10,8 +10,8 @@
     <generator>Sketch</generator>
     <item>
       <title>My Sketch Library</title>
-      <pubDate>Sat, 21 Nov 2020 10:19:04 +0000</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/aroundsketch/test/main/testLibrary.sketch" type="application/octet-stream" sparkle:version="1"/>
+      <pubDate>Sat, 21 Nov 2020 19:30:04 +0100</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/aroundsketch/test/main/testLibrary.sketch" type="application/octet-stream" sparkle:version="1.1"/>
     </item>
   </channel>
 </rss>
